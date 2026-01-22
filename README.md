@@ -1,8 +1,8 @@
-### **Customer Shopping Behaviour Analysis**
+# **Customer Shopping Behaviour Analysis**
 
 
 
-#### **Overview**
+### **Overview**
 
 
 
@@ -10,7 +10,7 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 
 
-#### **Dataset**
+### **Dataset**
 
 
 
@@ -38,7 +38,7 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 
 
-#### **Tools \& Technologies**
+### **Tools \& Technologies**
 
 
 
@@ -62,7 +62,7 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 
 
-#### **Project Steps**
+### **Project Steps**
 
 
 
@@ -130,7 +130,7 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 ###### 
 
-#### **Dashboard**
+### **Dashboard**
 
 
 
@@ -154,7 +154,7 @@ The Power BI dashboard highlights:
 
 
 
-#### **Key Results \& Insights**
+### **Key Results \& Insights**
 
 
 
@@ -174,7 +174,7 @@ The Power BI dashboard highlights:
 
 ###### 
 
-#### **How to Run the Project**
+### **How to Run the Project**
 
 
 
