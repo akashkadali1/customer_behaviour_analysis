@@ -1,8 +1,8 @@
-##### **Customer Shopping Behaviour Analysis**
+### **Customer Shopping Behaviour Analysis**
 
 
 
-###### **Overview**
+#### **Overview**
 
 
 
@@ -10,7 +10,7 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 
 
-###### **Dataset**
+#### **Dataset**
 
 
 
@@ -26,19 +26,19 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 
 
-&nbsp;   Customer demographics (age, gender, subscription status)
+    Customer demographics (age, gender, subscription status)
 
 
 
-&nbsp;   Purchase details (category, amount, discounts, shipping type)
+    Purchase details (category, amount, discounts, shipping type)
 
 
 
-&nbsp;   Ratings and review-related attributes
+    Ratings and review-related attributes
 
 
 
-###### **Tools \& Technologies**
+#### **Tools \& Technologies**
 
 
 
@@ -62,7 +62,7 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 
 
-###### **Project Steps**
+#### **Project Steps**
 
 
 
@@ -130,7 +130,7 @@ This project analyzes customer shopping behavior to uncover actionable business 
 
 ###### 
 
-###### **Dashboard**
+#### **Dashboard**
 
 
 
@@ -154,7 +154,7 @@ The Power BI dashboard highlights:
 
 
 
-###### **Key Results \& Insights**
+#### **Key Results \& Insights**
 
 
 
@@ -174,7 +174,7 @@ The Power BI dashboard highlights:
 
 ###### 
 
-###### **How to Run the Project**
+#### **How to Run the Project**
 
 
 
@@ -186,7 +186,7 @@ The Power BI dashboard highlights:
 
 
 
-&nbsp; pip install pandas numpy matplotlib seaborn
+  pip install pandas numpy matplotlib seaborn
 
 
 
@@ -196,7 +196,7 @@ The Power BI dashboard highlights:
 
 
 
-&nbsp; Customer\_Shopping\_Behaviour\_Analysis.ipynb
+  Customer\_Shopping\_Behaviour\_Analysis.ipynb
 
 
 
@@ -206,7 +206,7 @@ The Power BI dashboard highlights:
 
 
 
-&nbsp; customer\_behaviour\_sql\_queries.sql
+  customer\_behaviour\_sql\_queries.sql
 
 
 
@@ -216,7 +216,7 @@ The Power BI dashboard highlights:
 
 
 
-&nbsp; customer\_behaviour\_dashboard.pbix
+  customer\_behaviour\_dashboard.pbix
 
 
 
